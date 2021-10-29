@@ -1,0 +1,30 @@
+#box{
+    border: 3px solid black;
+    height: 2180px;
+    width: 500px;
+    border-radius: 5px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 50px red;
+    font-size: 15px;
+    background-color: black;
+    color:aqua;
+    display: flex;
+    justify-content:left; 
+}
+.box1{
+    border: 3px solid black;
+    height: 550px;
+    width: 500px;
+    border-radius: 5px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 50px red;
+    font-size: 15px;
+    background-color: black;
+    color:aqua;
+
+}
+b{
+    font-size: large;
+    color: red;
+    margin-bottom: 20px;
+}
